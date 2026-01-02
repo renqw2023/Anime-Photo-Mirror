@@ -1,0 +1,7 @@
+{
+  "name": "Anime Photo Mirror",
+  "description": "Upload a photo and stand alongside your favorite anime characters in a hyper-realistic 3D world.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
